@@ -13,3 +13,6 @@ Version: 24H2
 Version 16.11.45
 
 ## Dependencies
+### .Net
+
+Version: 4.8.09032
