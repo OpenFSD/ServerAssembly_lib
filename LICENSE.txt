@@ -1,10 +1,10 @@
-Copyright (c) 2022 - 2025 Brenton James Maddocks BEng(CompSys).  
+Copyright (c) 2022 - 2025 Jasper Assembly Pty Ltd.  
 All rights reserved.
 Florence FSD - Concurrent (Multi-Threaded) Event Driven Server Assembly Library.
 
 Redistribution and use in source and binary forms, with or without
 modification, are not permitted. All provisions require expressed 
-written consent from Brenton James Maddocks BEng(CompSys), via 
+written consent from Jasper Assembly Pty Ltd., via 
 "Jasper.Assembly@icloud.com". Outcomes of expressed consent provided must
 ensure the following conditions are met:
 
