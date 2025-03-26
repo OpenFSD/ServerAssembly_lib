@@ -8,14 +8,11 @@ Edition: Windows 11 Home OEM System Builder
 
 Version: 24H2
 
-### Using Microsoft Visual Studio Professional 2022
+### Using Microsoft Visual Studio Professional 2019
 
-Version 17.13.4
-
-## Test-Bench.
- - https://github.com/OpenFSD/TestBench_Florence
+Version 16.11.45
 
 ## Dependencies
 ### .Net
 
-Version: 8.0
+Version: 4.8.09032
